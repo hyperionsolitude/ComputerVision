@@ -1,0 +1,17 @@
+Calculating ORB features...
+
+Descriptor 1 :  500
+Descriptor 2 : 500
+# of matches between descriptors: 500
+
+Calculating SURF features...
+
+Descriptor 1 :  4796
+Descriptor 2 :  4998
+# of matches between descriptors: 4796
+
+Calculating SIFT features...
+
+Descriptor 1 :  2678
+Descriptor 2 :  3061
+# of matches between descriptors: 2678
